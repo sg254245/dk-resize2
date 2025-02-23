@@ -9,7 +9,7 @@
 
     font-family: 'Nintendo-DS-BIOS';
 
-    src: url('assets/Nintendo-DS-BIOS.ttf') format('truetype');
+    src: url('../assets/Nintendo-DS-BIOS.ttf') format('truetype');
 
 }
 
