@@ -639,7 +639,7 @@ footer h4 {
    ============================= */
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1040px) {
     /* Allow the outer container height to adjust automatically */
     .character-container-outerbox {
       height: auto;
